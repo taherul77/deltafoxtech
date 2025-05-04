@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 interface MainState {
 	add: boolean;
-	editData: any;
+	editData: Record<string, unknown>;
 }
 
 const initialState: MainState = {
