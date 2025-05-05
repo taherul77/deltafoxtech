@@ -39,7 +39,7 @@ const NavBar = () => {
                   alt="ATI Limited Logo"
                 /> */}
                 <div className="flex items-center gap-2 font-bold text-6xl text-white dark:text-black">
-                  deltafoxtech
+                  delta fox
                 </div>
               </Link>
 
